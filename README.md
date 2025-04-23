@@ -1,0 +1,1 @@
+A calculator for leveraged Binance futures trading, designed to provide real-time market data for precise risk management. This tool enables traders to assess leverage impacts, optimize position sizing, and make informed decisions, ensuring smarter and more controlled leveraged trading strategies.
