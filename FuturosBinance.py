@@ -109,7 +109,7 @@ while True:
     dolar_loss = stoploss(entry, size)
     tp_dolar = takeprofit(entry)
     z = str(input("would u like to pick other crypto pair?(y/n): ")).upper()
-    if(z!="S"):
+    if(z!="Y"):
             cointicker = get_quote(a)
             b = leverage()
             maximum_contract = total_capital()
